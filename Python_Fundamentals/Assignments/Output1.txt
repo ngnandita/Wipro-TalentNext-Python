@@ -1,0 +1,8 @@
+Input: 10
+Output: Positive Number
+
+Input: -5
+Output: Negative Number
+
+Input: 0
+Output: Zero
