@@ -1,0 +1,21 @@
+Program1
+4th element from first: 40
+4th element from last: 50
+
+
+Program2
+Enter element: 30
+Element exists in tuple
+
+
+Program3
+Tuple: (10, 20, 30, 40, 50)
+
+
+#Program4
+Enter item: 40
+Index = 3
+
+
+#Program5
+[(10, 20, 100), (40, 50, 100), (70, 80, 100)]
