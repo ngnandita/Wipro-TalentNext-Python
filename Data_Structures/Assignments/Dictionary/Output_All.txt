@@ -1,0 +1,43 @@
+#Program1
+{0: 10, 1: 20, 2: 30}
+
+
+#Program2
+{1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+
+#Program3
+Enter key to search: 2
+Key exists
+
+
+#Program4
+Keys:
+1
+2
+3
+
+Values:
+Apple
+Banana
+Mango
+
+Keys and Values:
+1 : Apple
+2 : Banana
+3 : Mango
+
+
+#Program5
+{
+1:1, 2:4, 3:9, 4:16, 5:25,
+6:36, 7:49, 8:64, 9:81,
+10:100, 11:121, 12:144,
+13:169, 14:196, 15:225
+}
+
+
+#Program6
+Sum = 1000
+
+
