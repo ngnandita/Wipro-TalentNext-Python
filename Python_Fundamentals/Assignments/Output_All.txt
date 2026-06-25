@@ -1,0 +1,61 @@
+#Program1#
+Input: 10
+Output: Positive Number
+Input: -5
+Output: Negative Number
+Input: 0
+Output: Zero
+
+
+#Program2
+Enter a number: 15
+Odd Number
+
+
+#Program3
+Enter first number: 27
+Enter second number: 57
+True
+
+
+#Program4
+1	2	3	4	5	6	7	8	9	10
+
+
+#Program5
+24
+26
+28
+30
+
+56
+
+
+#Program6
+Enter a number: 17
+Prime Number
+
+
+#Program7
+11
+13
+17
+19
+23
+
+97
+
+
+#Program8
+Enter a number: 1234
+Sum = 10
+
+
+#Program9
+Enter a number: 1234
+4321
+
+
+#Program10
+Enter a number: 110011
+110011 is a palindrome
