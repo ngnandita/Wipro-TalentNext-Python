@@ -1,0 +1,24 @@
+#Program1
+Enter a string: WiproTalentNext
+Uppercase Letters = 3
+Lowercase Letters = 12
+
+
+#Program2
+Enter a string: madam
+Palindrome
+
+
+#Program3
+Enter a string: Wipro
+WiWiWiWiWi
+
+
+#Program4
+Enter a string: xHix
+Hi
+
+#Program5
+Enter a string: Wipro
+Enter n: 3
+propropro
