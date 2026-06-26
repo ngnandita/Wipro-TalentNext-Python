@@ -1,0 +1,23 @@
+Program1
+Reads complete file.
+
+
+Program2
+Reads first n lines.
+
+
+Program3
+Appends user text to sample.txt.
+
+
+Program4
+Stores file lines into a list.
+
+
+Program5
+Finds longest word.
+
+
+
+Program6
+Counts frequency of user-entered word.
