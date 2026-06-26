@@ -1,0 +1,12 @@
+Program1
+Output:
+Sum = 30
+
+
+#Program2
+File Name : Program2.py
+Welcome Message : Welcome_to_Wipro
+
+
+#Program3
+Sum of Prime Numbers = 28
