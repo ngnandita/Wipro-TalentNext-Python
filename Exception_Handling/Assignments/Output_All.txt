@@ -1,0 +1,34 @@
+#Program1
+Input:
+20
+4
+
+Output:
+Result = 5.0
+
+
+Program2
+Input:
+17
+
+Output:
+17 is a Prime Number
+
+
+Program3
+Input:
+sample.txt
+
+Output:
+Welcome To Wipro Talentnext
+Python Programming
+Exception Handling
+
+
+
+Program4
+Input:
+3
+
+Output:
+-8 is Negative
