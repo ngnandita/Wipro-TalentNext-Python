@@ -1,0 +1,22 @@
+#Program1
+Sum = 20
+
+
+#Program2
+Enter a string: 1234abcd
+Reversed String = dcba4321
+
+
+#Program3
+Enter a number: 5
+Factorial = 120
+
+
+#Program4
+Enter a string: WiproTalentNext
+Uppercase Letters = 3
+Lowercase Letters = 12
+
+
+#Program5
+Even Numbers = [2, 4, 6, 8]
