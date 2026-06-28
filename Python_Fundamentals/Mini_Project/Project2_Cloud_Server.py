@@ -1,6 +1,4 @@
 # Cloud Server Cost Calculator
-
-
 cost_per_hour = 0.51
 
 

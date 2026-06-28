@@ -14,4 +14,3 @@ for num in string3:
 
 print("Final happiness:", happiness)
 
-not working

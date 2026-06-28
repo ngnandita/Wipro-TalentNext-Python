@@ -4,7 +4,7 @@ Module : name_utils
 
 def ispalindrome(name):
     if name.lower() == name.lower()[::-1]:
-        return "Yes it is a palindrome."
+        return "Yes! It is a palindrome."
     return "No! It is not a palindrome."
 
 
@@ -27,3 +27,16 @@ def frequency_of_letters(name):
             frequency[ch] = frequency.get(ch, 0) + 1
 
     return frequency
+
+
+# Main Program
+name = input("Enter your name: ")
+
+print("\nPalindrome Check:")
+print(ispalindrome(name))
+
+print("\nNumber of Vowels:")
+print(count_the_vowels(name))
+
+print("\nFrequency of Letters:")
+print(frequency_of_letters(name))
